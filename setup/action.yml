@@ -1,6 +1,6 @@
-name: Setup asdf
+name: Setup asdf - chilliisnice
 description: Install tools versioned with asdf
-author: Victor Borja <vborja@apache.org>
+author: Saphira <chilliisnice@wallwisher.com>
 runs:
   using: node16
   main: main.js
